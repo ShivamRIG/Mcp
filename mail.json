@@ -1,0 +1,16 @@
+{
+    "tools": [
+      {
+        "name": "get_unread_emails"
+      },
+      {
+        "name": "summarize_email"
+      },
+      {
+        "name": "list_pending_tasks"
+      },
+      {
+        "name": "mark_email_processed"
+      }
+    ]
+  }
