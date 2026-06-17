@@ -8,6 +8,7 @@ EMAIL_PASSWORD = os.getenv("Email_password")
 
 IMAP_SERVER= os.getenv("IMAP_Server","mail.uni.kl.de")
 IMAP_PORT= int (os.getenv("IMAP_port",993))
+GMAIL=os.getenv("GMAIL")
 
 # telegram
 
