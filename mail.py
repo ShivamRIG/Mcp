@@ -5,6 +5,18 @@ from config import ( EMAIL_ADDRESS,
     EMAIL_PASSWORD,
     GMAIL,
     IMAP_PORT)
+
+
+def get_body(msg):
+    """Extract plain text body from email"""
+    if msg.is_multipart():
+        for part in msg.walk():
+            if part.get_content_type() == "text/plain":
+                return part.get_payload(decode=True).decode(errors="ignore")
+    else:
+        return msg.get_payload(decode=True).decode(errors="ignore")
+    return ""
+
 def get_unread_emails():
     # service = build("gmail", "v1",credentials=creds)
 
@@ -28,7 +40,8 @@ def get_unread_emails():
 
         emails.append({
             "From": msg.get("From"),
-            "subject": msg.get("Subject")
+            "subject": msg.get("Subject"),
+            "body": get_body(msg)
         })
 
     mail.logout()

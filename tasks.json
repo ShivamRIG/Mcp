@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Submit Q3 report",
+    "due_date": "Friday",
+    "source_email": "Project deadline reminder",
+    "done": true,
+    "created_at": "2026-06-25T01:35:11.824283"
+  },
+  {
+    "id": 2,
+    "title": "Submit Q3 report",
+    "due_date": "Friday",
+    "source_email": "Project deadline reminder",
+    "done": false,
+    "created_at": "2026-06-25T01:35:43.605269"
+  },
+  {
+    "id": 3,
+    "title": "Submit Q3 report",
+    "due_date": "Friday",
+    "source_email": "Project deadline reminder",
+    "done": false,
+    "created_at": "2026-06-25T01:42:47.707431"
+  },
+  {
+    "id": 4,
+    "title": "Verify recovery email",
+    "due_date": "",
+    "source_email": "Help strengthen the security of your Google Account",
+    "done": false,
+    "created_at": "2026-06-25T01:43:16.275288"
+  },
+  {
+    "id": 5,
+    "title": "Verify email address",
+    "due_date": "",
+    "source_email": "Verify Your Email",
+    "done": false,
+    "created_at": "2026-06-25T01:43:17.375578"
+  },
+  {
+    "id": 6,
+    "title": "Change account password if the request did not come from the user",
+    "due_date": "",
+    "source_email": "Verify Your Email",
+    "done": false,
+    "created_at": "2026-06-25T01:43:17.376694"
+  },
+  {
+    "id": 7,
+    "title": "Review updated Privacy Policy",
+    "due_date": "",
+    "source_email": "Updates to =?UTF-8?B?T3BlbkFJ4oCZcw==?= Privacy Policy",
+    "done": false,
+    "created_at": "2026-06-25T01:44:21.790582"
+  },
+  {
+    "id": 8,
+    "title": "Try Codex",
+    "due_date": "",
+    "source_email": "Try Codex for free",
+    "done": false,
+    "created_at": "2026-06-25T01:45:19.962667"
+  },
+  {
+    "id": 9,
+    "title": "Review and protect your account",
+    "due_date": "",
+    "source_email": "Your Google Account was recovered successfully",
+    "done": false,
+    "created_at": "2026-06-25T01:45:42.221128"
+  },
+  {
+    "id": 10,
+    "title": "Check account activity",
+    "due_date": "",
+    "source_email": "Security alert",
+    "done": false,
+    "created_at": "2026-06-25T01:45:43.804852"
+  },
+  {
+    "id": 11,
+    "title": "Secure the account if necessary",
+    "due_date": "",
+    "source_email": "Security alert",
+    "done": false,
+    "created_at": "2026-06-25T01:45:43.805522"
+  },
+  {
+    "id": 12,
+    "title": "Recover Google account",
+    "due_date": "",
+    "source_email": "Security alert",
+    "done": false,
+    "created_at": "2026-06-25T01:45:46.319748"
+  },
+  {
+    "id": 13,
+    "title": "Check security activity",
+    "due_date": "",
+    "source_email": "Security alert",
+    "done": false,
+    "created_at": "2026-06-25T01:45:46.321239"
+  },
+  {
+    "id": 14,
+    "title": "Review and protect your account",
+    "due_date": "",
+    "source_email": "Your Google Account was recovered successfully",
+    "done": false,
+    "created_at": "2026-06-25T01:45:47.577193"
+  },
+  {
+    "id": 15,
+    "title": "Review and protect your account",
+    "due_date": "",
+    "source_email": "Your Google Account was recovered successfully",
+    "done": false,
+    "created_at": "2026-06-25T01:45:50.633750"
+  },
+  {
+    "id": 16,
+    "title": "Check activity",
+    "due_date": "",
+    "source_email": "Security alert",
+    "done": false,
+    "created_at": "2026-06-25T01:45:50.877061"
+  },
+  {
+    "id": 17,
+    "title": "Review security notifications",
+    "due_date": "",
+    "source_email": "Security alert",
+    "done": false,
+    "created_at": "2026-06-25T01:45:50.878748"
+  },
+  {
+    "id": 18,
+    "title": "Review and protect your account",
+    "due_date": "",
+    "source_email": "Your Google Account was recovered successfully",
+    "done": false,
+    "created_at": "2026-06-25T01:45:52.639737"
+  },
+  {
+    "id": 19,
+    "title": "Verify recovery email",
+    "due_date": "",
+    "source_email": "Help strengthen the security of your Google Account",
+    "done": false,
+    "created_at": "2026-06-25T01:46:21.824089"
+  },
+  {
+    "id": 20,
+    "title": "Verify email address",
+    "due_date": "",
+    "source_email": "Verify Your Email",
+    "done": false,
+    "created_at": "2026-06-25T01:46:41.770877"
+  }
+]

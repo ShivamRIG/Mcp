@@ -4,7 +4,7 @@ import os
 load_dotenv()
 
 EMAIL_ADDRESS = os.getenv("Email_Address")
-EMAIL_PASSWORD = os.getenv("Email_password")
+EMAIL_PASSWORD = os.getenv("Email_Password")
 
 IMAP_SERVER= os.getenv("IMAP_Server","mail.uni.kl.de")
 IMAP_PORT= int (os.getenv("IMAP_port",993))
