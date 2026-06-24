@@ -1,5 +1,5 @@
 from mcp.server.fastmcp import FastMCP
-from mail import get_unread_emails
+from Mcp.app.mail import get_unread_emails
 from llm import extract_tasks_from_email   # ← import from llm.py
 import json, os
 from datetime import datetime

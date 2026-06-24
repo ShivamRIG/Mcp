@@ -1,5 +1,5 @@
 from llm import extract_tasks_from_email
-from mail import get_unread_emails
+from Mcp.app.mail import get_unread_emails
 from Server import list_pending_tasks, mark_email_processed, add_task
 
 emails = get_unread_emails()
